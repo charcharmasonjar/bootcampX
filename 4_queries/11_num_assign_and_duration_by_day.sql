@@ -7,4 +7,4 @@ FROM
 GROUP BY
   day
 ORDER BY
-  day; YEEEET
+  day;
